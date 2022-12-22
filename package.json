@@ -15,7 +15,7 @@
     "cors": "^2.8.1",
     "express": "^4.14.0",
     "gridfs-stream": "^1.1.1",
-    "jsonwebtoken": "^7.1.9",
+    "jsonwebtoken": "^9.0.0",
     "jwt-simple": "^0.5.1",
     "mongoose": "^5.8.1",
     "morgan": "^1.7.0",
